@@ -1,6 +1,5 @@
 # Multi Subagent Security Review
 
-A parallel deployment of seven specialized AI subagents performing a full lifecycle security code review, from architecture mapping to validated, remediated findings.
 
 ## Overview
 
