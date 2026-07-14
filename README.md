@@ -1,10 +1,10 @@
 # Multi Subagent Security Review
 
-A parallel deployment of seven specialized AI subagents performing a full lifecycle security code review, from architecture mapping through validated, remediated findings.
+A parallel deployment of seven specialized AI subagents performing a full lifecycle security code review, from architecture mapping to validated, remediated findings.
 
 ## Overview
 
-This project performs a full lifecycle security review using seven specialized AI subagents, each one handling a distinct phase of the process, from architecture mapping all the way through validated, remediated findings. Rather than relying on a single pass, the pipeline builds understanding in layers: mapping the system, tracing how data moves through it, hunting for real exploitable issues, scoring their risk, fixing them, and finally validating the results before anything is reported.
+This project performs a full lifecycle security review using seven specialized AI subagents, each one handling a distinct phase of the process, from architecture mapping all the way to validated, remediated findings. Rather than relying on a single pass, the pipeline builds understanding in layers: mapping the system, tracing how data moves through it, hunting for real exploitable issues, scoring their risk, fixing them, and finally validating the results before anything is reported.
 
 This repository includes:
 
